@@ -9913,9 +9913,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ENGIN\\Desktop\\.NetCore 5.0 Proje\\CoreDemo\\CoreDemo\\CoreDemo.csproj",
-      "projectName": "CoreDemo",
-      "projectPath": "C:\\Users\\ENGIN\\Desktop\\.NetCore 5.0 Proje\\CoreDemo\\CoreDemo\\CoreDemo.csproj",
+      "projectUniqueName": "C:\\Users\\ENGIN\\Desktop\\.NetCore 5.0 Proje\\CoreDemo\\CoreDemo\\WebAPI.csproj",
+      "projectName": "WebAPI",
+      "projectPath": "C:\\Users\\ENGIN\\Desktop\\.NetCore 5.0 Proje\\CoreDemo\\CoreDemo\\WebAPI.csproj",
       "packagesPath": "C:\\Users\\ENGIN\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\ENGIN\\Desktop\\.NetCore 5.0 Proje\\CoreDemo\\CoreDemo\\obj\\",
       "projectStyle": "PackageReference",

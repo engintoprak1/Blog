@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xiGUjg2sDSbLl/VzTTyzSFibiI4mk5d4zZ6ki+dq292L/iumHeHCamj9SuFUkZzY0++oWfmNUK1f1Nw7VYyCeg==",
+  "dgSpecHash": "xqiKAfGPCWAFJ1SjN7h0tm9JdUdakHG+KSSMFXaZE//o7UdcBGQ9JJX/ENykAv9OTH4W4n3M5tlpfEpr8q8Akg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ENGIN\\Desktop\\.NetCore 5.0 Proje\\CoreDemo\\CoreDemo\\CoreDemo.csproj",
+  "projectFilePath": "C:\\Users\\ENGIN\\Desktop\\.NetCore 5.0 Proje\\CoreDemo\\CoreDemo\\WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ENGIN\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ENGIN\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
